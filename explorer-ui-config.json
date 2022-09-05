@@ -1,6 +1,6 @@
 {
   "Azakan": {
-    "substrateRpcUrlArray": ["ws://ws.azakan.net:9944"],
+    "substrateRpcUrlArray": ["ws://wss.azakan.net:9944"],
     "explorerWsUrlArray": ["ws://azakan.net:8000/graphql-ws"]
   }
 }
