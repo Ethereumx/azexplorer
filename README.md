@@ -11,6 +11,10 @@ Run `init.sh` to initialize repository; this will basically run:
 The [explorer-ui-config.json](https://github.com/polkascan/explorer/blob/main/explorer-ui-config.json) file contains 
 the URLs of theexposed Substrate and Explorer API endpoints
 
+if not inited you'll get 
+COPY failed: file not found in build context or excluded by .dockerignore: stat polkadapt/package.json: file does not exist
+
+
 ## Running the application
 * `docker-compose up --build`
 
